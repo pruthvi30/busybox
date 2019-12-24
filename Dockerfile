@@ -1,6 +1,6 @@
 FROM busybox
 
-MAINTAINER kapil kapil@local
+MAINTAINER pruthviraj pruthvi@local
 
 ADD index.html /www/index.html
 
